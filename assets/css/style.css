@@ -30,7 +30,7 @@ body {
 }
 
 /* Header Box Model */
-.header div {
+.header ul {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,11 +39,11 @@ body {
 }
 
 /* Header URL List-Style: NONE */
-.header div ul {
+.header  ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -120,7 +120,7 @@ p {
 }
 
 /*  */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -130,11 +130,11 @@ p {
 }
 
 /* Display Image Height */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.content div img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.content div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
