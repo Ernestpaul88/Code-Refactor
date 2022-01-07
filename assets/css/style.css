@@ -81,13 +81,14 @@ p {
     margin-left: 25px;
 }
 
-
+/* Webpage Content Box Style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits Style and Font layout/Background */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,22 +100,26 @@ p {
     background-color: #2589bd;
 }
 
+/* All Benefits text-box Size and color */
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* All benefits Size and Alignment */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* All Benefits Display and Demensions */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*  */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -124,6 +129,7 @@ p {
     color: #ffffff;
 }
 
+/* Display Image Height */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
@@ -133,6 +139,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Font-family text and positioning */
 .footer {
     padding: 30px;
     clear: both;
@@ -140,6 +147,7 @@ p {
     text-align: center;
 }
 
+/* Footer Font size */
 .footer h2 {
     font-size: 20px;
 }
