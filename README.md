@@ -9,3 +9,7 @@ I utilized semantic HTML elements and made sure the code is presented in a logic
 I've re-organized the CSS to display global, element, class, and used the ID selectors to easily identify groups. I removed redundant CSS and re-grouped a elements that use the same style structure. For example (All Benefit Images Display and Demensions ".benefit-lead img, .benefit-brand img, .benefit-cost img" All had the same CSS structure).
 
 I am certain the HTML and CSS for this project is cleaner, more accessible and meets the acceptance criteria. 
+
+![]()
+
+![]()
