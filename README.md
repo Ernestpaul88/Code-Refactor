@@ -10,8 +10,7 @@ I've re-organized the CSS to display global, element, class, and used the ID sel
 
 I am certain the HTML and CSS for this project is cleaner, more accessible and meets the acceptance criteria. 
 
-![ALT](URL)
+![Horiseon Full Page Part 1(Header)](https://github.com/Ernestpaul88/Code-Refactor/blob/main/assets/images/Horiseon%20Full%20Page%20Part%201(Header).png)
 
-![]()
 
 Deployed application: https://ernestpaul88.github.io/Code-Refactor/
