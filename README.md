@@ -10,6 +10,8 @@ I've re-organized the CSS to display global, element, class, and used the ID sel
 
 I am certain the HTML and CSS for this project is cleaner, more accessible and meets the acceptance criteria. 
 
-![]()
+![ALT](URL)
 
 ![]()
+
+Deployed application: https://ernestpaul88.github.io/Code-Refactor/
