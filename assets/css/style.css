@@ -43,6 +43,7 @@ body {
     list-style-type: none;
 }
 
+/* Header UR List-box format and pixel size */
 .header ul li {
     display: inline-block;
     margin-left: 25px;
@@ -119,7 +120,7 @@ p {
     max-width: 150px;
 }
 
-/*  */
+/* Box Styling, Color and font for Content */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
