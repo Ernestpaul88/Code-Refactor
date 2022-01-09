@@ -12,5 +12,7 @@ I am certain the HTML and CSS for this project is cleaner, more accessible and m
 
 ![Horiseon Full Page Part 1(Header)](https://github.com/Ernestpaul88/Code-Refactor/blob/main/assets/images/Horiseon%20Full%20Page%20Part%201(Header).png)
 
+![Horiseon Full Page Part 2 (Body)](https://github.com/Ernestpaul88/Code-Refactor/blob/main/assets/images/Horiseon%20Full%20Page%20Part%202%20(Body).png)
+
 
 Deployed application: https://ernestpaul88.github.io/Code-Refactor/
